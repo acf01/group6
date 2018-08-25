@@ -21,3 +21,27 @@
     margin-left: 200px;
     margin-right: 100px;
 }
+.answer1{
+    background-color: #4CAF50;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 110px;
+    height: 75px;
+}
+.answer2{
+    background-color: #4CAF50;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 110px;
+    height: 75px; 
+}
+.answer3{
+    background-color: #4CAF50;
+    display: block;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 110px;
+    height: 75px; 
+}
