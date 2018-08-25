@@ -25,9 +25,9 @@ header {
     .animatedObject{
     position: fixed;
     width: 30%;
-    height: 20%;
+    height: 40%;
     margin-left: 500px;
-    margin-top: 400px;
+    margin-top: 300px;
     background-color: royalblue;
     }
 
